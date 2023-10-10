@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hostingwpt/static/css/main.7280c1ee.chunk.css",
+    "main.js": "/hostingwpt/static/js/main.982f8384.chunk.js",
+    "main.js.map": "/hostingwpt/static/js/main.982f8384.chunk.js.map",
+    "runtime-main.js": "/hostingwpt/static/js/runtime-main.eddda7f2.js",
+    "runtime-main.js.map": "/hostingwpt/static/js/runtime-main.eddda7f2.js.map",
+    "static/js/2.67fa1db6.chunk.js": "/hostingwpt/static/js/2.67fa1db6.chunk.js",
+    "static/js/2.67fa1db6.chunk.js.map": "/hostingwpt/static/js/2.67fa1db6.chunk.js.map",
+    "index.html": "/hostingwpt/index.html",
+    "precache-manifest.08a2bb13e80f3a332fc21b91cd542d40.js": "/hostingwpt/precache-manifest.08a2bb13e80f3a332fc21b91cd542d40.js",
+    "service-worker.js": "/hostingwpt/service-worker.js",
+    "static/css/main.7280c1ee.chunk.css.map": "/hostingwpt/static/css/main.7280c1ee.chunk.css.map",
+    "static/js/2.67fa1db6.chunk.js.LICENSE.txt": "/hostingwpt/static/js/2.67fa1db6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eddda7f2.js",
+    "static/js/2.67fa1db6.chunk.js",
+    "static/css/main.7280c1ee.chunk.css",
+    "static/js/main.982f8384.chunk.js"
+  ]
+}
